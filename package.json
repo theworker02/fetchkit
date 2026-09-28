@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/fetchkit",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Fetch HTML/Markdown kit fragments safely for docs pipelines.",
+  "bin": {
+    "fetchkit": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/fetchkit.git"
+  },
+  "homepage": "https://theworker02.github.io/fetchkit/",
+  "keywords": [
+    "fetch",
+    "kit",
+    "markup",
+    "cli",
+    "toolkit"
+  ]
+}
